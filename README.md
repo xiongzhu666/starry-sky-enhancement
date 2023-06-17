@@ -5,4 +5,6 @@ When taking pictures of the starry sky with a phone, due to the small photosensi
 
 ![compare](https://github.com/xiongzhu666/starry-sky-enhancement/blob/main/compare.png)
 
+By zooming in on local areas, it is easy to see that the trailing effect of stars has been eliminated and the brightness of stars is higher than that of the original photo. With this algorithm, we have overcome the limitations of phone camera sensors and greatly improved the quality of astrophotography taken with phones.
+
 ![look](https://github.com/xiongzhu666/starry-sky-enhancement/blob/main/look.png)
